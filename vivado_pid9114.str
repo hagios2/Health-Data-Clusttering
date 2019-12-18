@@ -1,0 +1,175 @@
+/*
+
+Xilinx Vivado v2019.1 (64-bit) [Major: 2019, Minor: 1]
+SW Build: 2552052 on Fri May 24 14:47:09 MDT 2019
+IP Build: 2548770 on Fri May 24 18:01:18 MDT 2019
+
+Process ID (PID): 9114
+License: Customer
+
+Current time: 	Wed Dec 18 03:09:21 GMT 2019
+Time zone: 	Greenwich Mean Time (Europe/London)
+
+OS: Ubuntu
+OS Version: 5.0.0-37-generic
+OS Architecture: amd64
+Available processors (cores): 2
+
+Display: :0
+Screen size: 1366x768
+Screen resolution (DPI): 100
+Available screens: 1
+Available disk space: 142 GB
+Default font: family=Dialog,name=Dialog,style=plain,size=12
+
+Java version: 	9.0.4 64-bit
+Java home: 	/tools/Vivado/2019.1/tps/lnx64/jre9.0.4
+Java executable location: 	/tools/Vivado/2019.1/tps/lnx64/jre9.0.4/bin/java
+Java initial memory (-Xms): 	128 MB
+Java maximum memory (-Xmx):	 3 GB
+
+
+User name: 	root
+User home directory: /root
+User working directory: /home/oteng/Projects/Machine Learning/Kmeans
+User country: 	US
+User language: 	en
+User locale: 	en_US
+
+RDI_BASEROOT: /tools/Vivado
+HDI_APPROOT: /tools/Vivado/2019.1
+RDI_DATADIR: /tools/Vivado/2019.1/data
+RDI_BINDIR: /tools/Vivado/2019.1/bin
+
+Vivado preferences file location: /home/oteng/.Xilinx/Vivado/2019.1/vivado.xml
+Vivado preferences directory: /home/oteng/.Xilinx/Vivado/2019.1/
+Vivado layouts directory: /home/oteng/.Xilinx/Vivado/2019.1/layouts
+PlanAhead jar file location: 	/tools/Vivado/2019.1/lib/classes/planAhead.jar
+Vivado log file location: 	/home/oteng/Projects/Machine Learning/Kmeans/vivado.log
+Vivado journal file location: 	/home/oteng/Projects/Machine Learning/Kmeans/vivado.jou
+Engine tmp dir: 	./.Xil/Vivado-9114-oteng-HP-15-Notebook-PC
+
+Xilinx Environment Variables
+----------------------------
+XILINX: /tools/Vivado/2019.1/ids_lite/ISE
+XILINX_DSP: /tools/Vivado/2019.1/ids_lite/ISE
+XILINX_PLANAHEAD: /tools/Vivado/2019.1
+XILINX_SDK: /tools/SDK/2019.1
+XILINX_VIVADO: /tools/Vivado/2019.1
+XILINX_VIVADO_HLS: /tools/Vivado/2019.1
+
+
+GUI allocated memory:	154 MB
+GUI max memory:		3,072 MB
+Engine allocated memory: 769 MB
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+
+*/
+
+// TclEventType: START_GUI
+// Tcl Message: start_gui 
+// WARNING: HEventQueue.dispatchEvent() is taking  2548 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 763 MB. GUI used memory: 44 MB. Current time: 12/18/19, 3:09:23 AM GMT
+// WARNING: HEventQueue.dispatchEvent() is taking  1002 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1002 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1002 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1002 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1001 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1001 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1001 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1002 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1003 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1001 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1001 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1001 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1001 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1001 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1001 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1001 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1001 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1001 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1001 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1001 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1001 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1001 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1001 ms.
+selectList(PAResourceQtoS.SyntheticaGettingStartedView_RECENT_PROJECTS, "/home/oteng/Documents/Vivaldo/Traffric/Traffric.xpr", 4); // q (O, cl)
+// by (cl):  Open Project : addNotify
+// Opening Vivado Project: /home/oteng/Documents/Vivaldo/Traffric/Traffric.xpr. Version: Vivado v2019.1 
+// WARNING: HEventQueue.dispatchEvent() is taking  16208 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 771 MB. GUI used memory: 42 MB. Current time: 12/18/19, 3:12:35 AM GMT
+// WARNING: HTimer (HSTRUtils Dump STR Log Timer) is taking 881ms to process. Increasing delay to 4000 ms.
+// Tcl Message: open_project /home/oteng/Documents/Vivaldo/Traffric/Traffric.xpr 
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_COMPLETED
+// TclEventType: RUN_STATUS_CHANGE
+// TclEventType: RUN_FAILED
+// TclEventType: RUN_STATUS_CHANGE
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_DASHBOARD_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_NEW
+// Tcl Message: open_project /home/oteng/Documents/Vivaldo/Traffric/Traffric.xpr 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified 
+// Tcl Message: INFO: [IP_Flow 19-2313] Loaded Vivado IP repository '/tools/Vivado/2019.1/data/ip'. 
+// TclEventType: PROJECT_NEW
+// [GUI Memory]: 77 MB (+78477kb) [00:05:06]
+// [Engine Memory]: 820 MB (+708160kb) [00:05:06]
+// WARNING: updateGUI() is taking  1442 ms.
+// [GUI Memory]: 94 MB (+13225kb) [00:05:11]
+// [Engine Memory]: 864 MB (+2916kb) [00:05:16]
+// WARNING: HEventQueue.dispatchEvent() is taking  38251 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1402 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 887 MB. GUI used memory: 48 MB. Current time: 12/18/19, 3:13:56 AM GMT
+// WARNING: HTimer (a Update Status Timer) is taking 552ms to process. Increasing delay to 3000 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  2335 ms.
+// Tcl Message: open_project: Time (s): cpu = 00:00:46 ; elapsed = 00:01:21 . Memory (MB): peak = 6427.551 ; gain = 106.543 ; free physical = 133 ; free virtual = 2660 
+// Project name: Traffric; location: /home/oteng/Documents/Vivaldo/Traffric; part: xc7a35tcpg236-1
+// [GUI Memory]: 100 MB (+1423kb) [00:05:29]
+// WARNING: updateGUI() is taking  1133 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1459 ms.
+// WARNING: HTimer (FileMgr Design Graph Update Timer) is taking 725ms to process. Increasing delay to 3000 ms.
+// Elapsed time: 104 seconds
+dismissDialog("Open Project"); // by (cl)
+// [Engine Memory]: 907 MB (+431kb) [00:05:48]
+// WARNING: HTimer (FileMgr Design Graph Update Timer) is taking 829ms to process. Increasing delay to 4000 ms.
+// Tcl Message: update_compile_order -fileset sources_1 
+// PAPropertyPanels.initPanels (Traffic.vhd) elapsed time: 1.6s
+// Elapsed time: 43 seconds
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, Traffic(Behavioral) (Traffic.vhd)]", 1, false); // B (F, cl)
+// WARNING: HEventQueue.dispatchEvent() is taking  3483 ms.
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, Traffic(Behavioral) (Traffic.vhd)]", 1, false, false, false, false, false, true); // B (F, cl) - Double Click
+// WARNING: HEventQueue.dispatchEvent() is taking  2450 ms.
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, Traffic(Behavioral) (Traffic.vhd)]", 1, false); // B (F, cl)
+// WARNING: HTimer (ActiveMsgMonitor Process Messages Timer) is taking 241ms to process. Increasing delay to 2000 ms.
+// WARNING: HTimer (StateMonitor Timer) is taking 842ms to process. Increasing delay to 4000 ms.
+// WARNING: HTimer (StateMonitor Timer) is taking 1214ms to process. Increasing delay to 5000 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1214 ms.
+// WARNING: HTimer (ActiveMsgMonitor Process Messages Timer) is taking 1163ms to process. Increasing delay to 3000 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1163 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1648 ms.
+// Elapsed time: 863 seconds
+selectCodeEditor("Traffic.vhd", 388, 93); // cl (w, cl)
+// WARNING: HTimer (FileMgr Design Graph Update Timer) is taking 1129ms to process. Increasing delay to 5000 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1129 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 922 MB. GUI used memory: 51 MB. Current time: 12/18/19, 3:43:58 AM GMT
+// HMemoryUtils.trashcanNow. Engine heap size: 922 MB. GUI used memory: 46 MB. Current time: 12/18/19, 4:13:59 AM GMT
+// [GUI Memory]: 105 MB (+138kb) [01:30:27]
+// HMemoryUtils.trashcanNow. Engine heap size: 923 MB. GUI used memory: 46 MB. Current time: 12/18/19, 4:43:59 AM GMT
+// HMemoryUtils.trashcanNow. Engine heap size: 923 MB. GUI used memory: 46 MB. Current time: 12/18/19, 5:13:59 AM GMT
+// HMemoryUtils.trashcanNow. Engine heap size: 924 MB. GUI used memory: 46 MB. Current time: 12/18/19, 5:43:59 AM GMT
